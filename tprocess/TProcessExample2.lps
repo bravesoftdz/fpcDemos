@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="1">
+      <Unit0>
+        <Filename Value="TProcessExample2.pas"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="68"/>
+        <CursorPos X="16" Y="88"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit0>
+    </Units>
+    <JumpHistory Count="3" HistoryIndex="2">
+      <Position1>
+        <Filename Value="TProcessExample2.pas"/>
+        <Caret Line="41" Column="17" TopLine="18"/>
+      </Position1>
+      <Position2>
+        <Filename Value="TProcessExample2.pas"/>
+        <Caret Line="26" TopLine="26"/>
+      </Position2>
+      <Position3>
+        <Filename Value="TProcessExample2.pas"/>
+        <Caret Line="70" Column="55" TopLine="68"/>
+      </Position3>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>
